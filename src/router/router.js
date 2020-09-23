@@ -5,6 +5,7 @@ import third from '../components/third'
 import forth from '../components/forth'
 import fifth from '../components/fifth'
 import main from '../components/jd.vue'
+import mine from '../components/mine.vue'
 
 
 Vue.use(VueRouter);
@@ -15,6 +16,14 @@ var routes = [{
   {
     path: "/second",
     component: second
+  },
+  {
+    path: "/mine",
+    component: mine
+  },
+  {
+    path: "/fifth",
+    component: fifth
   },
   {
     path: "/third",

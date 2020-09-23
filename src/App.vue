@@ -10,27 +10,55 @@
 export default {};
 </script>
 <style >
+#div,
+.jindongBox {
+  height: 100%;
+}
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
-.float {
-  position: fixed;
-  bottom: 0;
-  z-index: 999;
-  background: #fff;
-  /* padding: 2px 15px; */
-  flex-shrink: 0;
+body,
+html {
   width: 100%;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+.first-slideshow .swiper-pagination-bullet {
+  width: 10px !important;
+  height: 5px !important;
+  border-radius: 5px !important;
+  margin: 0 5px !important;
+}
+.first-slideshow .swiper-pagination-bullet-active {
+  width: 15px !important;
+  height: 5px !important;
+  background-color: white !important;
+}
+.second-slideshow .swiper-pagination-bullet {
+  width: 10px !important;
+  height: 5px !important;
+  border-radius: 5px !important;
+  margin: 0 5px !important;
+}
+.second-slideshow .swiper-pagination-bullet-active {
+  width: 15px !important;
+  height: 5px !important;
+  background-color: orangered !important;
+}
+.detail-slideshow .swiper-pagination-fraction {
   display: flex;
-  justify-content: space-between;
-  text-align: center;
-  box-shadow: 0 0 10px 0 hsla(0, 6%, 58%, 0.6);
+  flex-flow: row;
+  position: absolute;
+  bottom: 1rem !important;
+  left: 90% !important;
 }
-.floatImg {
-  width: 20%;
-}
-.floatImg img {
-  width: 60px;
+.box2-like .swiper-pagination-bullet {
+  width: 15px;
+  height: 5px;
+  border-radius: 3px;
 }
 </style>

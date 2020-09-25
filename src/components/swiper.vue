@@ -6,21 +6,21 @@
           <a
             href="https://pro.m.jd.com/mall/active/3oTpijoRYX5h9iZAzAaRvGuBbTDm/index.html?__jda=76161171.1590373863347893597982.1590373863.1596605887.1596609821.17"
           >
-            <img src="../assets/1.jpg" alt />
+            <img src="../assets/pic1.jpg" alt />
           </a>
         </swiper-slide>
         <swiper-slide>
           <a
             href="https://lps.jd.com/psp/70140441342?imup=CgYKABIAGAASEwj-5cilhQIQ39fsBBoAIO9cKAEYpRwgAColbWl4dGFnX2ksdWUseGdhLGdpYSxjaWUsZl9iYV9mbF9sNDkzODIIbWl4dGFnX2lKowFJfE1JWFRBR19JUixJX0FfRkxfTEMsSV9BX1JFX0w1NjAxLElfQV9QTF9SLElfQV9TTF9MQyxJX1VfRkxfTDQ2NDIsSV9TX0ZMX0xDLElfUl9GTF9SLElfUF9GTF9MNTU4MSxJX0dfWEdfUixJX0JfRkxfTEMsR0lBfEcqSV9VX0ZMX0w1NDY2O0Z8TUlYVEFHX0ZSLEZfQkFfRkxfTDQ5Mzh8&extension_id=eyJhZCI6IjM2MjEiLCJjaCI6IjIiLCJza3UiOiI3MDE0MDQ0MTM0MiIsInRzIjoiMTU5NjYxMDgwNCIsInVuaXFpZCI6IntcImNsaWNrX2lkXCI6XCJiMWI3ODM3NS1jOWM0LTRkZTgtYmFiYS1jMWExMGRkYmExODhcIixcIm1hdGVyaWFsX2lkXCI6XCI4MzA1NDA1MzcwNjYyOTY2MDg4XCIsXCJwb3NfaWRcIjpcIjM2MjFcIixcInNpZFwiOlwiYTNjN2E0NjMtMDU3Yi00NGY1LWE1YzgtYjdlZjAyZDdhMzFkXCJ9In0%3D&jd_pop=b1b78375-c9c4-4de8-baba-c1a10ddba188&abt=0"
           >
-            <img src="../assets/2.jpg" alt />
+            <img src="../assets/pic2.jpg" alt />
           </a>
         </swiper-slide>
         <swiper-slide>
           <a
             href="https://shop.m.jd.com/?shopId=10133566&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&extension_id=eyJhZCI6IjM2MjIiLCJjaCI6IjIiLCJzaG9wIjoiMTAxMzM1NjYiLCJ0cyI6IjE1OTY2MTA4MjciLCJ1bmlxaWQiOiJ7XCJjbGlja19pZFwiOlwiYzg0MzAwODktMDJlMy00OGVhLTg3ZjYtOTlhNjlkODNhNzU1XCIsXCJtYXRlcmlhbF9pZFwiOlwiMjMzNzQxMjgzMFwiLFwicG9zX2lkXCI6XCIzNjIyXCIsXCJzaWRcIjpcIjhlYjlmZmI4LTkwOWEtNGQ3MC1iZjllLWJiNzZkOGRjYTc0YlwifSJ9&jd_pop=c8430089-02e3-48ea-87f6-99a69d83a755&abt=1"
           >
-            <img src="../assets/3.jpg" alt />
+            <img src="../assets/pic3.jpg" alt />
           </a>
         </swiper-slide>
         <swiper-slide>
@@ -590,8 +590,9 @@ export default {
   methods: {
     countDown() {
       setInterval(() => {
+        let that = this;
         let nowTime = new Date();
-        let inputTime = new Date("2020-8-18 00:00:00");
+        let inputTime = new Date("2020-9-25 00:00:00");
         let times = (inputTime - nowTime) / 1000;
         let h = parseInt((times / 60 / 60) % 24);
         h = h < 10 ? "0" + h : h;
@@ -599,7 +600,7 @@ export default {
         m = m < 10 ? "0" + m : m;
         let s = parseInt(times % 60);
         s = s < 10 ? "0" + s : s;
-        this.timedown = h + ":" + m + ":" + s;
+        that.timedown = h + ":" + m + ":" + s;
       }, 1000);
     },
     gotop() {
@@ -777,6 +778,7 @@ export default {
 }
 .main-time-show-p2 {
   color: #999;
+  font-size: 12px;
 }
 .main-nav2 {
   display: flex;

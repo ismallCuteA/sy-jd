@@ -6,12 +6,12 @@
             "title":"当季主推",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz1.jpg",
+                    "label":"防晒"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a2.jpg",
-                    "label":"冰箱"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz2.jpg",
+                    "label":"控油"
                 }
             ]
         }
@@ -21,16 +21,16 @@
             "title":"拔草推荐",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz3.jpg",
+                    "label":"明星同款面膜"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a2.jpg",
-                    "label":"冰箱"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz4.jpg",
+                    "label":"显白口红"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a3.png",
-                    "label":"电脑"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz5.jpg",
+                    "label":"小美盒"
                 }
             ]
         }
@@ -41,21 +41,18 @@
             "title":"潮流速递",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz6.jpg",
+                    "label":"新品速递"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a2.jpg",
-                    "label":"冰箱"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz7.jpg",
+                    "label":"精选礼盒"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a3.png",
-                    "label":"电脑"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a4.png",
-                    "label":"手机"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz8.jpg",
+                    "label":"潮流风向"
                 }
+                
             ]
         }
     ],
@@ -64,103 +61,67 @@
             "title":"香水",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
-                    "label":"小米"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz9.jpg",
+                    "label":"女士香水"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b2.jpg",
-                    "label":"华为"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz10.jpg",
+                    "label":"男士香水"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b3.jpg",
-                    "label":"荣耀"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b4.jpg",
-                    "label":"iPhone"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
-                    "label":"vivo"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
-                    "label":"OPPO"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
-                    "label":"魅族"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
-                    "label":"三星"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
-                    "label":"一加"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b10.jpg",
-                    "label":"360手机"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
-                    "label":"锤子手机"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
-                    "label":"努比亚"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/mz11.jpg",
+                    "label":"香水礼盒"
                 }
             ]
         }
     ],
     "branchlist5":[
         {
-            "title":"热门分类2",
+            "title":"彩妆",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b2.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b2.jpg",
                     "label":"华为"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b3.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b3.jpg",
                     "label":"荣耀"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b4.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b4.jpg",
                     "label":"iPhone"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b5.png",
                     "label":"vivo"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b6.png",
                     "label":"OPPO"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b7.jpg",
                     "label":"魅族"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b10.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b10.jpg",
                     "label":"360手机"
                 },
                
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]
@@ -168,45 +129,45 @@
     ],
     "branchlist6":[
         {
-            "title":"热门分类2",
+            "title":"美妆工具",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b3.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b3.jpg",
                     "label":"荣耀"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b4.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b4.jpg",
                     "label":"iPhone"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b5.png",
                     "label":"vivo"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b6.png",
                     "label":"OPPO"
                 },
                
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b10.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b10.jpg",
                     "label":"360手机"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]
@@ -214,44 +175,44 @@
     ],
     "branchlist7":[
         {
-            "title":"热门分类2",
+            "title":"大牌推荐",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b2.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b2.jpg",
                     "label":"华为"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b3.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b3.jpg",
                     "label":"荣耀"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b6.png",
                     "label":"OPPO"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b7.jpg",
                     "label":"魅族"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b11.jpg",
                     "label":"锤子手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]
@@ -262,41 +223,41 @@
             "title":"热门分类2",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b4.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b4.jpg",
                     "label":"iPhone"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b5.png",
                     "label":"vivo"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b6.png",
                     "label":"OPPO"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b7.jpg",
                     "label":"魅族"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b10.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b10.jpg",
                     "label":"360手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b11.jpg",
                     "label":"锤子手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]
@@ -307,41 +268,41 @@
             "title":"热门分类2",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b4.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b4.jpg",
                     "label":"iPhone"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b5.png",
                     "label":"vivo"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b6.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b6.png",
                     "label":"OPPO"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b7.jpg",
                     "label":"魅族"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b11.jpg",
                     "label":"锤子手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]
@@ -352,40 +313,40 @@
             "title":"热门分类2",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b2.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b2.jpg",
                     "label":"华为"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b3.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b3.jpg",
                     "label":"荣耀"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b7.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b7.jpg",
                     "label":"魅族"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b9.jpg",
                     "label":"一加"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b10.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b10.jpg",
                     "label":"360手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b11.jpg",
                     "label":"锤子手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]

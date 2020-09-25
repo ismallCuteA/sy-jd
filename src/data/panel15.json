@@ -4,58 +4,52 @@
     "branchlist":[
         {
             
-            "title":"热门分类",
+            "title":"热门推荐",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts1.jpg",
+                    "label":"童书"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a7.jpg",
-                    "label":"保健品"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts2.jpg",
+                    "label":"教材辅材"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a8.jpg",
-                    "label":"口罩"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts3.jpg",
+                    "label":"人文社科"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a9.jpg",
-                    "label":"驱蚊用品"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts4.jpg",
+                    "label":"经管励志"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a10.jpg",
-                    "label":"电磁炉"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts5.jpg",
+                    "label":"艺术"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a11.jpg",
-                    "label":"电热水壶"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts6.jpg",
+                    "label":"IT科技"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a12.jpg",
-                    "label":"数据线"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts7.jpg",
+                    "label":"文娱"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a13.jpg",
-                    "label":"图书"
-                },
-               
-                
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a17.jpg",
-                    "label":"充电宝"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts8.jpg",
+                    "label":"教育培训"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a18.jpg",
-                    "label":"体温计"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts9.jpg",
+                    "label":"生活"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a19.jpg",
-                    "label":"投影仪"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts10.jpg",
+                    "label":"电子书"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a20.jpg",
-                    "label":"游戏机"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts11.jpg",
+                    "label":"知识服务"
                 }
             ]
         }
@@ -63,59 +57,57 @@
     "branchlist2":[
         {
            
-            "title":"热门分类",
+            "title":"童书",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts12.jpg",
+                    "label":"0-2岁"
                 },
                
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a3.png",
-                    "label":"电脑"
-                },
-               
-                
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a8.jpg",
-                    "label":"口罩"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts13.jpg",
+                    "label":"3-6岁"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a9.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/ts14.jpg",
+                    "label":"7-10岁"
+                },
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a9.jpg",
                     "label":"驱蚊用品"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a10.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a10.jpg",
                     "label":"电磁炉"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a11.jpg",
                     "label":"电热水壶"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a12.jpg",
                     "label":"数据线"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a13.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a13.jpg",
                     "label":"图书"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a14.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a14.jpg",
                     "label":"美妆护肤"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a15.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a15.jpg",
                     "label":"除菌液"
                 },
                
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a18.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a18.jpg",
                     "label":"体温计"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a20.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch1/g-a20.jpg",
                     "label":"游戏机"
                 }
             ]
@@ -132,30 +124,30 @@
             "title":"热门分类2",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b1.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b1.png",
                     "label":"小米"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b2.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b2.jpg",
                     "label":"华为"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b5.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b5.png",
                     "label":"vivo"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b8.png",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b8.png",
                     "label":"三星"
                 },
                 
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b11.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b11.jpg",
                     "label":"锤子手机"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch2/g-b12.jpg",
+                    "img":"http://127.0.0.1:5501/src/assets/branch2/g-b12.jpg",
                     "label":"努比亚"
                 }
             ]

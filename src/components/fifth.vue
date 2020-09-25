@@ -64,11 +64,13 @@ export default {
 .search-box-all {
   height: 100%;
   background: rgb(246, 246, 246);
+      /* border-bottom: 1px solid #e5e5e5; */
 }
 .search-box {
   padding: 10px;
   background: #fff;
   display: flex;
+ /* border-bottom: 1px solid #cfb7b7; */
 }
 .search-top {
   display: flex;
@@ -93,7 +95,7 @@ export default {
   margin: 0 10px;
   padding-right: 30px;
   background: rgb(246, 246, 246);
-  border-radius: 15px;
+  border-radius: 30px;
   box-sizing: border-box;
   display: flex;
   align-items: center;

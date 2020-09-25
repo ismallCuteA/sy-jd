@@ -3,96 +3,63 @@
     "status":"成功",
     "branchlist":[
         {
-            "rankicon":"http://127.0.0.1:5500/src/assets/branch1/g-a.png",
+            "rankicon":"http://127.0.0.1:5501/src/assets/branch1/g-a.png",
             "rank":"排行榜",
-            "arrowicon":"http://127.0.0.1:5500/src/assets/branch1/g-a0.png",
-            "title":"热门分类",
+            "arrowicon":"http://127.0.0.1:5501/src/assets/branch1/g-a0.png",
+            "title":"适用年龄",
             "reclist":[
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a1.jpg",
-                    "label":"空调"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj1.jpg",
+                    "label":"0-6个月"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a2.jpg",
-                    "label":"冰箱"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj2.jpg",
+                    "label":"6-12个月"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a3.png",
-                    "label":"电脑"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj3.jpg",
+                    "label":"1-3岁"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a4.png",
-                    "label":"手机"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj4.jpg",
+                    "label":"3-6岁"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a5.jpg",
-                    "label":"全面屏手机"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj5.jpg",
+                    "label":"6-14岁"
                 },
                 {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a6.jpg",
-                    "label":"游戏手机"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a7.jpg",
-                    "label":"保健品"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a8.jpg",
-                    "label":"口罩"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a9.jpg",
-                    "label":"驱蚊用品"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a10.jpg",
-                    "label":"电磁炉"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a11.jpg",
-                    "label":"电热水壶"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a12.jpg",
-                    "label":"数据线"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a13.jpg",
-                    "label":"图书"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a14.jpg",
-                    "label":"美妆护肤"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a15.jpg",
-                    "label":"除菌液"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a16.jpg",
-                    "label":"休闲零食"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a17.jpg",
-                    "label":"充电宝"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a18.jpg",
-                    "label":"体温计"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a19.jpg",
-                    "label":"投影仪"
-                },
-                {
-                    "img":"http://127.0.0.1:5500/src/assets/branch1/g-a20.jpg",
-                    "label":"游戏机"
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj6.jpg",
+                    "label":"14岁以上"
                 }
             ]
         }
     ],
     "branchlist2":[
         {
+            "title":"遥控电动",
+            "reclist":[
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj7.jpg",
+                    "label":"机器人"
+                },
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj8.jpg",
+                    "label":"遥控车"
+                },
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj9.jpg",
+                    "label":"遥控飞机"
+                },
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj10.jpg",
+                    "label":"轨道/助力"
+                },
+                {
+                    "img":"http://127.0.0.1:5501/src/assets/branch3/wj11.jpg",
+                    "label":"遥控船"
+                }
+            ]
         }
     ],
     "branchlist3":[

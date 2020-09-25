@@ -257,6 +257,7 @@ a {
   position: fixed;
   width: 100%;
   z-index: 2;
+      border-bottom: 1px solid #e5e5e5;
 }
 .search-top {
   display: flex;

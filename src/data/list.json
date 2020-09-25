@@ -19,102 +19,182 @@
         },
         {
             "id":4,
-            "label":"计生情趣",
+            "label":"家用电器",
             "active":false
         },
         {
             "id":5,
-            "label":"美妆护肤",
+            "label":"计生情趣",
             "active":false
         },
         {
             "id":6,
-            "label":"个护清洁",
+            "label":"美妆护肤",
             "active":false
         },
         {
             "id":7,
-            "label":"汽车生活",
+            "label":"个护清洁",
             "active":false
         },
         {
             "id":8,
-            "label":"京东超市",
+            "label":"汽车生活",
             "active":false
         },
         {
             "id":9,
-            "label":"男装",
+            "label":"京东超市",
             "active":false
         },
         {
             "id":10,
-            "label":"女装",
+            "label":"男装",
             "active":false
         },
         {
             "id":11,
-            "label":"母婴童装",
+            "label":"男鞋",
             "active":false
         },
         {
             "id":12,
-            "label":"图书音像",
+            "label":"女装",
             "active":false
         },
         {
             "id":13,
-            "label":"运动户外",
+            "label":"女鞋",
             "active":false
         },
         {
             "id":14,
-            "label":"内衣配饰",
+            "label":"母婴童装",
             "active":false
         },
         {
             "id":15,
-            "label":"食品生鲜",
+            "label":"图书音像",
             "active":false
         },
         {
             "id":16,
-            "label":"酒水饮料",
+            "label":"运动户外",
             "active":false
         },
         {
             "id":17,
-            "label":"家具家装",
+            "label":"内衣配饰",
             "active":false
         },
         {
             "id":18,
-            "label":"家居厨具",
+            "label":"食品生鲜",
             "active":false
         },
         {
             "id":19,
-            "label":"箱包手袋",
+            "label":"酒水饮料",
             "active":false
         },
         {
             "id":20,
-            "label":"钟表珠宝",
+            "label":"家具家装",
             "active":false
         },
         {
             "id":21,
-            "label":"玩具乐器",
+            "label":"家居厨具",
             "active":false
         },
         {
             "id":22,
-            "label":"医药保健",
+            "label":"箱包手袋",
             "active":false
         },
         {
             "id":23,
+            "label":"钟表珠宝",
+            "active":false
+        },
+        {
+            "id":24,
+            "label":"玩具乐器",
+            "active":false
+        },
+        {
+            "id":25,
+            "label":"医药保健",
+            "active":false
+        },
+        {
+            "id":26,
             "label":"宠物生活",
+            "active":false
+        },
+        {
+            "id":27,
+            "label":"礼品鲜花",
+            "active":false
+        },
+        {
+            "id":28,
+            "label":"农资绿植",
+            "active":false
+        },
+        {
+            "id":29,
+            "label":"生活旅行",
+            "active":false
+        },
+        {
+            "id":30,
+            "label":"奢侈品",
+            "active":false
+        },
+        {
+            "id":31,
+            "label":"京东国际",
+            "active":false
+        },
+        {
+            "id":32,
+            "label":"艺术邮币",
+            "active":false
+        },
+        {
+            "id":33,
+            "label":"二手商品",
+            "active":false
+        },
+        {
+            "id":34,
+            "label":"特产馆",
+            "active":false
+        },
+        {
+            "id":35,
+            "label":"京东金融",
+            "active":false
+        },
+        {
+            "id":36,
+            "label":"国际名牌",
+            "active":false
+        },
+        {
+            "id":37,
+            "label":"拍卖",
+            "active":false
+        },
+        {
+            "id":38,
+            "label":"房产",
+            "active":false
+        },
+        {
+            "id":39,
+            "label":"工业品",
             "active":false
         }
     ]

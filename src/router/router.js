@@ -1,6 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router"
-import second from '../components/second'
+import Classify from '../components/Classify.vue'
 import third from '../components/third'
 import forth from '../components/forth'
 import fifth from '../components/fifth'
@@ -15,7 +15,7 @@ var routes = [{
   },
   {
     path: "/second",
-    component: second
+    component: Classify
   },
   {
     path: "/mine",

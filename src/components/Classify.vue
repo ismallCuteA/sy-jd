@@ -35,13 +35,13 @@
           <img src="../assets/jinxi.png" />
         </a>
       </div>
-      <router-link to="/shop-car">
+      <router-link to="/third">
         <div class="floatImg">
           <!-- <img src="../assets/shopcarq.png" v-if="indexItem==3" /> -->
           <img src="../assets/shopcar.png"/>
         </div>
       </router-link>
-      <router-link to="/enter">
+      <router-link to="/forth">
         <div class="floatImg">
           <img src="../assets/enter.png" />
         </div>

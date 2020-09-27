@@ -608,7 +608,7 @@ export default {
     },
     toGoodDetail(id) {
       this.$router.push({
-        path: "/:id",
+        path: "/id",
         query: {
           id: id,
         },
@@ -618,8 +618,13 @@ export default {
 };
 </script>
 <style scoped>
+
 .main img{
   border-radius: 8px;
+}
+.swiper-slide img{
+    border-radius: 8px;
+
 }
 .show-background {
   position: absolute;

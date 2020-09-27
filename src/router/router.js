@@ -6,7 +6,7 @@ import forth from '../components/forth'
 import fifth from '../components/fifth'
 import main from '../components/jd.vue'
 import mine from '../components/mine.vue'
-import my from '../components/my.vue'
+
 
 Vue.use(VueRouter);
 var routes = [{
@@ -33,10 +33,7 @@ var routes = [{
     path: "/forth",
     component: forth
   },
-  {
-    path: "/my",
-    component: my
-  },
+
 ]
 var router = new VueRouter({
   routes,

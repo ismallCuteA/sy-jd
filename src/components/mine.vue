@@ -20,29 +20,29 @@
         <div class="my-concent-top-message">
           <div class="my-concent-top-message-imgbox">
             <div class="my-concent-top-message-avatar">
-              <img src="../assets/head.png" alt />
+              <img src="../assets/touxiang.jpg" alt />
             </div>
-            <div class="my-concent-top-message-realname">
+            <!-- <div class="my-concent-top-message-realname">
               待实名认证
               <img src="../assets/right.png" alt />
-            </div>
+            </div> -->
           </div>
           <div class="my-concent-top-message-box">
             <div class="my-concent-top-message-name">
-              <span class>jd_QuYHteIPRXwn</span>
+              <span class>Oohby_B</span>
               <span class="my-concent-top-message-name-imgbox">
                 <img src="../assets/pen.png" alt />
               </span>
-              <div class="my-concent-top-message-zhuce">
+              <!-- <div class="my-concent-top-message-zhuce">
                 <div class="my-concent-top-message-back"></div>
                 <div class="my-concent-top-message-zhuce-name">注册</div>
-              </div>
+              </div> -->
             </div>
-            <div class="my-concent-top-message-username">用户名：jd_QuYHteIPRXwn</div>
+            <div class="my-concent-top-message-username">用户名：Oohby_B</div>
             <div class="my-concent-top-message-value">
-              <div class="my-concent-top-message-value-left">京享值222</div>
+              <div class="my-concent-top-message-value-left">京享值19465</div>
               <div class="my-concent-top-message-value-right">
-                <span class="my-concent-top-message-value-right-span">小白信用60.3</span>
+                <span class="my-concent-top-message-value-right-span">小白信用68.8</span>
                 <span class="my-concent-top-message-value-right-imgbox">
                   <img src="../assets/right.png" alt />
                 </span>
@@ -312,6 +312,8 @@ export default {
 }
 .my-concent-top-message-avatar img {
   width: 100%;
+      border-radius: 25px;
+    margin-top: 2px;
 }
 .my-concent-top-message-realname {
   position: absolute;

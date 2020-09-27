@@ -592,7 +592,7 @@ export default {
       setInterval(() => {
         let that = this;
         let nowTime = new Date();
-        let inputTime = new Date("2020-9-25 00:00:00");
+        let inputTime = new Date("2026-9-25 00:00:00");
         let times = (inputTime - nowTime) / 1000;
         let h = parseInt((times / 60 / 60) % 24);
         h = h < 10 ? "0" + h : h;
@@ -618,6 +618,9 @@ export default {
 };
 </script>
 <style scoped>
+.main img{
+  border-radius: 8px;
+}
 .show-background {
   position: absolute;
   top: 0;

@@ -13,12 +13,15 @@ import Swiper, {
 Swiper.use([Navigation, Pagination, Autoplay]);
 Vue.use(VueAwesomeSwiper)
 Vue.config.productionTip = false
-// import {store} from "./store/index.js"
+import {
+  store
+} from "./store/index.js"
 
 
 Vue.config.productionTip = false
 
 new Vue({
+  store,
   router,
   render: h => h(App),
 }).$mount('#app')
